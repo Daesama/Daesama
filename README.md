@@ -12,6 +12,6 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Daesama/miPrimerRepo)
 
 ### :zap: Actividad reciente
-<!--RECENT:ACTIVITY:star-->
+<!--RECENT_ACTIVITY:start-->
 
 <!--RECENT_ACTIVITY:last_update--> 
