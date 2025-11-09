@@ -10,3 +10,8 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Daesama/Daesama)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Daesama/miPrimerRepo)
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
