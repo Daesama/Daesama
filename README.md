@@ -1,4 +1,4 @@
-## Hi there 👋
+## Daniel's GitHub
 
 :computer: **Desarrollador de software** <br>
 :books: **Apasionado por la filosofía** <br>
@@ -10,8 +10,9 @@
 
 ### Vias de contacto
 
+:camera: **Instagram**  
+[@daniel_sastoq](https://www.instagram.com/daniel_sastoq/)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Daesama/Daesama)
 
 
 ### :zap: Actividad reciente
